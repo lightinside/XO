@@ -10,7 +10,7 @@ public class PlayerTest {
     public void testGetName() throws Exception {
         final Player player = new Player("Tork", null);
 
-        assertEquals("Tork", player.getName());
+        assertEquals("Torkk", player.getName());
     }
 
     @Test
